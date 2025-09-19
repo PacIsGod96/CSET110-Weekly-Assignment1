@@ -1,0 +1,31 @@
+
+.logo{
+    display: flex;
+    justify-content: center;
+    margin-top: 200px;
+}
+.bar{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    margin-right: 30px;
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+.barTabs{
+    margin-inline-start: 30px;
+}
+.hero img{
+    margin-top: 50px;
+    width: 100%;
+    object-fit: cover;
+    display: block;
+    height: 500px;
+}
+
+
+
